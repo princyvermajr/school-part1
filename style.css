@@ -1,0 +1,15 @@
+.my_nav_bar { position:sticky; top:0; z-index:99999 }
+body{
+    text-align: center;
+}
+#alumni{
+    background-color: pink;
+}
+#campus{
+  background-color: greenyellow;
+    
+}
+#name{
+  background-color: blue
+    
+}
